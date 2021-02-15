@@ -56,45 +56,45 @@ In general a histogram depicts the number (or fraction) of observations that fal
 </details>
 
 
+
+
+
+
 ### Data Can Be Deceitful
 <details>
   <summary>Read</summary>
-So there is this graph that shows very strong correlation between enrollment in secondary school and log GDP per capita. So clearly, where people are more educated in countries where people are more educated they're also richer.
-  
-This correlation people have used to motivate policy-- for example, you know, build schools, and build support for education, spending on education, etc.
-Also to develop some theory of economic growth that rely on human capital.
-And in particular, this correlation is much stronger than the similar correlation you could find at the individual level.
-So in general, one more year of education increases your earnings by about 7 to 8% in most countries.
-And this correlation is not the-- the units are not the same.
-So they need to be compared.
-But that would suggest a much, much steeper correlation between the two.
-So that makes you to think well, maybe the whole is better.
+So there is this graph that shows very strong correlation between enrollment in secondary school and log GDP per capita, that shows that where people are more educated in countries where people are more educated they're also richer.  This correlation people have used to motivate policy-- for example, you know, build schools, and build support for education, spending on education, etc. And in particular, this correlation is much stronger than the similar correlation you could find at the individual level. So in general, one more year of education increases your earnings by about 7 to 8% in most countries, but it suggest a much, much steeper correlation between the two. So that makes you to think well, maybe the whole is better. 
 
-The other possible interpretation,
-though, is that that's actually misleading.
-And one way to look at it is to say
-well, if that were the story-- if that was the story-- then
-when countries become more educated,
-they should also become richer.
+<img src="gdpedu.png" width="600px;">
 
-
-Exactly, so the third possible story
-is that there are hidden variables that
-explain both of these things.
-For example-- give an example of what it could be.
-I don't know, maybe for example the government
-supports education or--
-The government supports education and something else
-that makes them richer.
-
-For example, maybe governments that are able to have good schools are also able to control malaria and are able to have a good functioning credit market and all sorts of stuff like that.
+But other possible interpretation, there are hidden variables that explain both of these things. Maybe the government supports education and something else does not that makes them richer. Maybe governments that are able to have good schools are also able to control malaria and are able to have a good functioning credit market and all sorts of stuff like that.
 </details>
+
+
+
+
+
+
+### Correlation versus Causation
+Correlation is not causality. By hunting for correlations in the data, one can often find entirely spurious patterns. Controlling for variables other than treatment and outcome could better isolate the relationship that we are interested in.
+
+
+
+
+
 
 ## Homework
 
+
+
+
+
+
 ## Vocabulary
-depicted - retratado
-node - nó
-ray - raio
-depiction - representação
-Deceitful - Enganoso
+- depicted - retratado
+- node - nó
+- ray - raio
+- depiction - representação
+- Deceitful - Enganoso
+- stunting rate - taxa de nanismo
+- latter - ultimo
