@@ -9,18 +9,21 @@ A and B are exhaustive (complementary) if their union is S.<br>
 <b>Law of inclusion-exclusion</b>
 
 <img src="https://render.githubusercontent.com/render/math?math=P(A U B)=P(A)%2B P(B)-P(A \cap B)"> <br>
-<img src="https://render.githubusercontent.com/render/math?math=P(A U B)=P(A) %2B P(B|A)">
+<img src="https://render.githubusercontent.com/render/math?math=P(A U B)=P(A) %2B P(B/A)">
 
 
+### Ordered and Unordered Arrangements
+Permutacao ordem importa. Combinacao ordem nao importa. <br>
+Which of these enumerates sampling  k  items from  n  items with replacement?
+<img src="https://render.githubusercontent.com/render/math?math=n^k"><br>
+Which of these enumerates sampling  k  items from  n  items without replacement?
+<img src="https://render.githubusercontent.com/render/math?math=\frac{n!}{(n-k)!}">
 
-<b>Probabilidade condicional</b>
+
+### Probabilidade condicional
 
 <img src="https://render.githubusercontent.com/render/math?math=P(B|A)=\frac{P(B \cap A)}{P(A)}"><br>
 <img src="https://s1.static.brasilescola.uol.com.br/be/e/PROBABILIDADE1.JPG">
-
-### Correlation versus Causation
-Permutacao ordem importa. Combinacao ordem nao importa.
-
 
 
 ## Homework
