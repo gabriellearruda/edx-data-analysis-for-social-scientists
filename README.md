@@ -5,7 +5,7 @@ Learn methods for harnessing and analyzing data to answer questions of cultural,
 
 ### Syllabus
 - [Module One](/Mod_01/): Introduction
-- Module Two: Fundamentals of Probability, Random Variables, Joint Distributions and Collecting Data
+- [Module Two](/Mod_02/): Fundamentals of Probability, Random Variables, Joint Distributions and Collecting Data
 - Module Three: Describing Data, Joint and Conditional Distributions of Random Variables
 - Module Four: Functions and Moments of a Random Variables & Intro to Regressions
 - Module Five: Special Distributions, the Sample Mean, the Central Limit Theorem
