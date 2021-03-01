@@ -83,12 +83,6 @@ Correlation is not causality. By hunting for correlations in the data, one can o
 
 
 
-## Homework
-
-
-
-
-
 
 ## Vocabulary
 - depicted - retratado
